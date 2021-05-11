@@ -2,7 +2,7 @@ baseURL: /
 title: Eureka Demo
 
 # Comment when installing using Hugo Modules
-theme: eureka
+theme: terminal
 # Uncomment when installing using Hugo Modules
 # theme: github.com/wangchucheng/hugo-eureka
 
