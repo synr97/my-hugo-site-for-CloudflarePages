@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "Synr's Blog"
+theme = "eureka"
 paginate = 5
 
 [params]
