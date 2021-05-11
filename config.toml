@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "terminal"
+theme = "Synr's Blog"
 paginate = 5
 
 [params]
@@ -46,7 +46,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Synr's Blog"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
@@ -58,7 +58,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Synr's Blog"
       logoHomeLink = "/"
 
     [languages.en.menu]
