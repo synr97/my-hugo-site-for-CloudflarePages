@@ -1,5 +1,5 @@
 ---
-title: Math Support
+title: Markdown Support
 description:
 toc: true
 authors:
@@ -7,8 +7,8 @@ authors:
 tags:
 categories:
 series:
-date: '2020-11-20T22:52:56+08:00'
-lastmod: '2020-11-20T22:52:56+08:00'
+date: '2021-05-15T22:52:56+08:00'
+lastmod: '2021-05-15T22:52:56+08:00'
 featuredImage:
 draft: false
 ---
