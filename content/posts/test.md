@@ -1,4 +1,18 @@
-# CSDN-markdown编辑器 使用示例
+---
+title: Math Support
+description:
+toc: true
+authors:
+  - example-author
+tags:
+categories:
+series:
+date: '2020-11-20T22:52:56+08:00'
+lastmod: '2020-11-20T22:52:56+08:00'
+featuredImage:
+draft: false
+---
+# Markdown编辑器 使用示例
 
 本Markdown编辑器使用[StackEdit]()[6]()修改而来，用它写博客，将会带来全新的体验哦：
 
@@ -11,7 +25,7 @@
 - **导入导出Markdown文件**
 - **丰富的快捷键**
 
----- ---------------
+---- 
 
 ## 快捷键
 
@@ -30,7 +44,7 @@
 
 ## Markdown及扩展
 
-> Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面。    —— \<a href="https://zh.wikipedia.org/wiki/Markdown" target="_blank"\> [ 维基百科 ]()
+> Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面。    —— \<a href="https://zh.wikipedia.org/wiki/Markdown" target="\_blank"\> [ 维基百科 ]()
 
 使用简单的符号标识不同的标题，将某些文字标记为**粗体**或者*斜体*，创建一个[链接]()(http://www.csdn.net)等，详细语法参考帮助？。
 
@@ -41,7 +55,7 @@
 **Markdown　Extra**　表格语法：
 
 项目     | 价格
----- ---- | ---
+\---- ---- | ---
 Computer | $1600
 Phone    | $12
 Pipe     | $1
@@ -76,7 +90,7 @@ Pipe     | $1
 ### 代码块
 代码块语法遵循标准markdown代码，例如：
 	` python
-@requires_authorization
+@requires\_authorization
 def somefunc(param1='', param2=0):
 	'A docstring'''
 if param1 \> param2: # interesting
@@ -92,7 +106,7 @@ pass
 \<font color=0099FF\>Hello\</font\>
 
 ## 删除线
-Hello~~
+Hello\~\~
 
 ### 脚注
 生成一个脚注[^footnote]().
@@ -160,7 +174,7 @@ cond(no)-\>op
 	2. IE9不支持文件导入导出
 	3. IE10不支持拖拽文件导入
 
----- -----
+---- 
 
 [1](): http://math.stackexchange.com/
 [2](): https://github.com/jmcmanus/pagedown-extra "Pagedown Extra"
@@ -171,4 +185,5 @@ cond(no)-\>op
 
 ## 在csdn Markdown模式下的显示效果:
 \<https://blog.csdn.net/lzuacm/article/details/81106221\>
+
 
