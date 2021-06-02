@@ -2,7 +2,7 @@
 title: Synr
 role: 打工人
 avatar: images/icon.png
-bio: All Will be fine.
+bio: Everything Will be fine.
 organization:
   name: Example Organization
   url: https://example.com/
