@@ -1,8 +1,8 @@
 ---
 title: Synr
-role: Example Role
+role: 打工人
 avatar: images/icon.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+bio: All Will be fine.
 organization:
   name: Example Organization
   url: https://example.com/
