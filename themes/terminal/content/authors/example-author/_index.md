@@ -20,7 +20,7 @@ social:
 
 ## 自我介绍
 
-～
+Everything Will be fine.
 
 ## Details  
 
