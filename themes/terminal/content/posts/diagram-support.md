@@ -23,20 +23,3 @@ Please include the Mermaid diagram as below. Every mermaid chart/graph/diagram d
 In order to render the HTML code in the Markdown file correctly, please make sure that `markup.goldmark.renderer.unsafe` in `config.yaml` is true.
 
 Here is one mermaid diagram:-->
-<!--
-<div class="mermaid">
-  graph TD
-  A[Client] --> <!--B[Load Balancer]
-  B --> <!-- C[Server1]
-  B --><!-- D[Server2]
-</div>
---><!--
-And here is another:
-
-<div class="mermaid">
-  graph TD
-  A[Client] --><!--|tcp_123| B(Load Balancer)
-  B --><!--|tcp_456| C[Server1]
-  B -->|<!--tcp_456| D[Server2]
-</div>
--->
