@@ -15,7 +15,7 @@ social:
     url: https://example.com/
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: https://github.com/synr97/
 ---
 
 ## 自我介绍
