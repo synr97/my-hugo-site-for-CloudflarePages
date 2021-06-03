@@ -13,7 +13,7 @@ featuredImage:
 draft: false
 ---
 
-今天正式建立了自己的技术博客.
+今天正式建立了自己的个人博客.
 
 <!--more-->
 
